@@ -4,7 +4,6 @@ from tkinter.font import BOLD
 import tkinter.messagebox
 import time
 from PIL import Image
-from typing import final
 
 # Main window of the game
 window = tkinter.Tk()
